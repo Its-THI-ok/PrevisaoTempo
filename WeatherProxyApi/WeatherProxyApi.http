@@ -1,0 +1,6 @@
+@WeatherProxyApi_HostAddress = http://localhost:5032
+
+GET {{WeatherProxyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
